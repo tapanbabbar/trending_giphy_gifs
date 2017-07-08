@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/tapanbabbar/pen/pwZVqy.
-
- Integrating Giphy API on a masonry gallery using gridScrollFx.js
+A masonry layout to pull the trending gifs from giphy.com
